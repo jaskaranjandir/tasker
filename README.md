@@ -8,13 +8,13 @@ A Web Application that keep the record of the tasks and allows user to <br>
 
 # BACKEND
 To run backend use Commands <br>
- => cd backend
+ => cd backend <br>
  => npm install <br>
- => npm start
+ => npm start <br>
  
  # FRONTEND
  To run Frontend use Commands <br>
-  => cd frontend
-  => npm install
-  => npm start
+  => cd frontend <br>
+  => npm install <br>
+  => npm start <br>
   
